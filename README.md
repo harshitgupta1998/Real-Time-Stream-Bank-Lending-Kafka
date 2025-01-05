@@ -5,7 +5,7 @@
 I used different technologies such as Python, Amazon Web Services (AWS), Apache Kafka, Glue, Athena, and SQL.
 
 ## Architecture 
-<img src="Architecture.jpg">
+<img src="ArchDiagram.jpg">
 
 ## Technology Used
 - Programming Language - Python
