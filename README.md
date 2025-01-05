@@ -1,8 +1,7 @@
-# Bank Lending and Evaluation Kafka Real Time Data Engineering Project
+# Bank Lending and Evaluation Kafka Real Time Project
 
 ## Introduction 
-
-I used different technologies such as Python, Amazon Web Services (AWS), Apache Kafka, Glue, Athena, and SQL.
+Using Bank Lending data from different Banks from UK using different technologies such as Python, Amazon Web Services (AWS), Apache Kafka, Glue, Athena, and SQL.
 
 ## Architecture 
 <img src="ArchDiagram.jpg">
